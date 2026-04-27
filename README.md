@@ -1,12 +1,15 @@
 # Minimalist Responsive Blog Layout
+An example of a minimalist blog layout
 
-CodePlayer project Minimalist Responsive Blog Layout project. Made with HTML, CSS and Bootstrap.
+## Tech Stack
+- HTML
+- CSS
+- Bootstrap
 
 ## Instructions 
-Clone the repo or download the zip file. Open index.html file in your browser.
-
-## Contributions
-This code is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone the repo or download the zip file. 
+2. Open index.html file in your browser.
+3. You will see four squares on the page with different background colors, headlines, icons, and text.
 
 ## Acknowledgements 
 * TheCodePlayer.com
